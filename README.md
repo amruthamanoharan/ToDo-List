@@ -16,7 +16,7 @@ A simple todo list web app built with **Laravel**.
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/amruthamanoharan/todo_list.git
+   git clone https://github.com/amruthamanoharan/ToDo-List.git
    ```
 2. Install dependencies:
    ```bash
